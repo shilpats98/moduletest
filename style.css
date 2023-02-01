@@ -1,0 +1,24 @@
+.carousel img{
+    
+   height: 90vh;
+    
+}
+.card{
+    display: flex;
+}
+
+.container{
+    margin-top: 30px;
+    
+}
+
+.accordion{
+    margin-top: 30px;
+}
+.table{
+    margin-top: 30px;
+}
+
+#bootstrap{
+    margin-left: 25px;
+}
